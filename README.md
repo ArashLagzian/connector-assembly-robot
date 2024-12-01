@@ -13,7 +13,7 @@ The Connector Assembly Robot project integrates mechanical, electrical, and comp
 
 
 ### 3. Video of the Assembly Process
-[![Assembly Robot Video](video_thumbnail.jpg)](video.mp4)  
+[![Video of the Assembly Process](video_thumbnail.jpg)](video.mp4)  
 *This video demonstrates the assembly process using the Connector Assembly Robot for one sample.*
 
 ## How It Works
