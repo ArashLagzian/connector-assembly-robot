@@ -10,7 +10,7 @@ The Connector Assembly Robot project integrates mechanical, electrical, and comp
 
 ### 2. Connector and ring structure
 ![Connector and ring structure](connector.png)
-
+*Shows how the various components are arranged inside the connector to prevent fuel leakage. Figure A1 is a secure ring, A2 is a yellow ring, A3 is a spacer, A4 is a green ring, and A5 is a key, which are used to separate the pin and the connector. Figures B and C show the placement and arrangement of the components, and Figure D shows the location of the key.
 
 ### 3. Video of the Assembly Process
 You can watch the assembly process demonstration on YouTube: [Watch the video here](https://youtu.be/jztiVvjA_ks?si=YI1LxK6lXZdeRNa_)
