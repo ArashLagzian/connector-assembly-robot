@@ -6,10 +6,11 @@ The Connector Assembly Robot project integrates mechanical, electrical, and comp
 ## Images & Videos
 
 ### 1. Connector Assembly Robot Overview
-![]()
+![Connector Assembly Robot Overview](assembely.png)
 
-
+### 2. Connector and ring structure
+![Connector and ring structure](connector.png)
 
 ### 3. Video of the Assembly Process
-![Assembly Robot Video](samplevideo.mp4)  
+![Video of the Assembly Process](samplevideo.mp4)  
 *This video demonstrates the step-by-step assembly process using the Connector Assembly Robot.*
