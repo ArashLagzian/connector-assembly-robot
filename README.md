@@ -21,3 +21,7 @@ You can watch the assembly process demonstration on YouTube: [Watch the video he
 ## How It Works
 The computer vision system ensures that the correct order, color, and shape of rings and connectors are placed on the carrier. Failed images are stored in memory for further analysis.
 
+## Disclaimer
+This repository is intended solely to share an overview and results from the **Connector Assembly Robot Project**. The code and implementations are private and belong to **HamgarToos Mashhad**. All rights are reserved, and the content in this repository is not to be shared or distributed without the consent of the company.
+
+In this project, I have worked on the **computer vision** section, developing algorithms to ensure the correct placement of rings and connectors in the assembly process.
